@@ -1,1 +1,2 @@
-# voiceinstruments_website
+# Voice Instruments
+This is the template for Prototypes' websites
